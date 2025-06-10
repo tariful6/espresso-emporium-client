@@ -71,17 +71,17 @@ const Home = () => {
                 <div className=" py-9">
                     <div className="py-9 text-center">
                         <p>Follow Us Now</p>
-                        <h2 className=" text-2xl font-bold py-2 text-amber-900">Follow On Instagram</h2>
+                        <h2 className=" text-3xl font-bold py-2 text-amber-900">Follow On Instagram</h2>
                     </div>
                     <div className=" grid grid-cols-4 gap-6">
-                        <img className="w-full h-52" src={coffeeCup1} alt="" />
-                        <img className="w-full h-52" src={coffeeCup2} alt="" />
-                        <img className="w-full h-52" src={coffeeCup3} alt="" />
-                        <img className="w-full h-52" src={coffeeCup4} alt="" />
-                        <img className="w-full h-52" src={coffeeCup5} alt="" />
-                        <img className="w-full h-52" src={coffeeCup6} alt="" />
-                        <img className="w-full h-52" src={coffeeCup7} alt="" />
-                        <img className="w-full h-52" src={coffeeCup8} alt="" />
+                        <img className="w-full h-56" src={coffeeCup1} alt="" />
+                        <img className="w-full h-56" src={coffeeCup2} alt="" />
+                        <img className="w-full h-56" src={coffeeCup3} alt="" />
+                        <img className="w-full h-56" src={coffeeCup4} alt="" />
+                        <img className="w-full h-56" src={coffeeCup5} alt="" />
+                        <img className="w-full h-56" src={coffeeCup6} alt="" />
+                        <img className="w-full h-56" src={coffeeCup7} alt="" />
+                        <img className="w-full h-56" src={coffeeCup8} alt="" />
                     </div>
 
                 </div>

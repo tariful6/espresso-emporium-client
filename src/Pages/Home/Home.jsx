@@ -61,6 +61,9 @@ const Home = () => {
                     <Link to="/addCoffee">
                        <button className=" btn btn-secondary">Add Coffee</button>
                     </Link>
+                    <Link to="/users">
+                       <button className=" btn btn-success text-white ml-4">Our Customer</button>
+                    </Link>
 
                 </div>
                 <div className=" grid grid-cols-2 gap-6">
